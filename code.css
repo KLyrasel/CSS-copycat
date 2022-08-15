@@ -189,10 +189,26 @@ img{
 
 .grid-image{
     margin-top: 2.4rem;
+    margin-left:2rem;
     grid-column: span 4;
+    width:450px;
+    height: 450px;
+    border-radius:2.8rem;
 }
 
 .text-group{
     margin-top: 2rem;
     grid-column: span 4;
+    position:relative;
+    left:50rem;
+    bottom:30rem;
+    vertical-align:left;
+    height:300px;
+    width:300px;
 }
+
+
+
+
+
+

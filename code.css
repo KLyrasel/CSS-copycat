@@ -192,14 +192,17 @@ img{
     background-color: #36393f;
 }
 
+.btn-login{
+    font-weight:lighter;
+}
 /*Collaboration*/
 
 .grid-image{
     margin-left:10em;
     margin-top:5em;
     grid-column: span 4;
-    width:450px;
-    height: 450px;
+    width:678px;
+    height: 440px;
     border-radius:2.8rem;
 }
 
